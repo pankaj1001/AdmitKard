@@ -1,0 +1,5 @@
+Assuming you know how to run node apps.
+
+Backend and front end both are saperate node apps. 
+
+so install all required files in bot Backend and Frontend folder and run saperately.
